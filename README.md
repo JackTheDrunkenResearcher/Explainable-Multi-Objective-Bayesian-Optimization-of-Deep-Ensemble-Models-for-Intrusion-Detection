@@ -1,0 +1,2 @@
+# Explainable-Multi-Objective-Bayesian-Optimization-of-Deep-Ensemble-Models-for-Intrusion-Detection
+The purpose is first to set standards for most of the Deep-Ensemble models that exist, through Multi-Objective Bayesian Optimization. With this process we will introduce stndards for faster and targeted optimization. Then Explainable Techniques like Shap, Lime, Grad-CAM to understand and explain the interal mechanisms of deep-ensemble models.
